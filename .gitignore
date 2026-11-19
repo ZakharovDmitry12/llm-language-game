@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+results/
+data/*.sqlite
+data/*.sqlite-*
+data/*.lock
+!data/pilot_verified.sqlite
+!data/pilot_verified_v2.sqlite
+!data/pilot_verified_v3.sqlite
+!data/pilot_luna_qwen_hy4.sqlite

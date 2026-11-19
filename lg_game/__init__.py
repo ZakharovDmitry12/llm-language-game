@@ -1,0 +1,1 @@
+"""Reproducible ultimatum game experiment."""
